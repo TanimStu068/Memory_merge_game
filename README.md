@@ -65,11 +65,11 @@ Each category has **three levels**, providing increasing difficulty to challenge
 ---
 
 ## **Screenshots**
-
-![Category Selection](assets/images/category_selection.png)
-![Gameplay Easy Level](assets/images/gameplay_easy.png)
-![Gameplay Medium Level](assets/images/gameplay_medium.png)
-![Win Dialog](assets/images/win_dialog.png)
+![welcome](welcome.jpeg)
+![Category Selection](category.jpeg)
+![level](level.jpeg)
+![Gameplay Level](game.jpen)
+![Win Dialog](windialog.jpeg)
 
 > Replace the above image paths with the correct paths in your `assets/images` folder.
 
