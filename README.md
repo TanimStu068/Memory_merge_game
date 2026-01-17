@@ -71,14 +71,3 @@ Each category has **three levels**, providing increasing difficulty to challenge
 <img src="level.jpeg" alt="Level Selection" width="400"/>
 <img src="game.jpeg" alt="Gameplay Level" width="400"/>
 <img src="windialog.jpeg" alt="Win Dialog" width="400"/>
-
-
-> Replace the above image paths with the correct paths in your `assets/images` folder.
-
----
-
-## **How to Run**
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/memory_merge_flutter_game.git
