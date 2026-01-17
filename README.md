@@ -65,11 +65,13 @@ Each category has **three levels**, providing increasing difficulty to challenge
 ---
 
 ## **Screenshots**
-![welcome](welcome1.jpeg)
-![Category Selection](category.jpeg)
-![level](level.jpeg)
-![Gameplay Level](game.jpeg)
-![Win Dialog](windialog.jpeg)
+
+<img src="welcome1.jpeg" alt="Welcome Screen" width="400"/>
+<img src="category.jpeg" alt="Category Selection" width="400"/>
+<img src="level.jpeg" alt="Level Selection" width="400"/>
+<img src="game.jpeg" alt="Gameplay Level" width="400"/>
+<img src="windialog.jpeg" alt="Win Dialog" width="400"/>
+
 
 > Replace the above image paths with the correct paths in your `assets/images` folder.
 
